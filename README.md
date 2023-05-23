@@ -8,3 +8,6 @@ OpenAI直连示例代码
 
 [./python/openai.py](./python/openai.py)
 
+
+[./go/openai.py](./go/openai.go)
+
