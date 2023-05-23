@@ -10,4 +10,5 @@ OpenAI直连示例代码
 | Python   | [openai.py](./python/openai.py) |
 | Golang   | [openai.go](./go/openai.go) |
 | Java   | [openai.java](./java/openai.java) |
+| C   | [openai.c](./c/openai.c) |
 
