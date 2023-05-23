@@ -4,10 +4,10 @@ OpenAI直连示例代码
 
 ## List
 
-[./nodejs/openai.js](./nodejs/openai.js)
-
-[./python/openai.py](./python/openai.py)
-
-
-[./go/openai.py](./go/openai.go)
+| Language | Example |
+| ---------|---------|
+| NodeJS   | [openai.js](./nodejs/openai.js) |
+| Python   | [openai.py](./python/openai.py) |
+| Golang   | [openai.go](./go/openai.go) |
+| Java   | [openai.java](./java/openai.java) |
 
